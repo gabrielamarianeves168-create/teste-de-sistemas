@@ -1,13 +1,13 @@
 # Projeto Contínuo UC Testes de Sistemas (Firjan SENAI)
 
 ## 📌 Sobre o Projeto
-Aplicação web em PHP/Laravel desenvolvida para a prática automatizada de testes de software (Unitários, Integração e E2E)[cite: 21].
+Aplicação web em PHP/Laravel desenvolvida para a prática automatizada de testes de software (Unitários, Integração e E2E).
 
 ## 🛠️ Requisitos do Ambiente
-- PHP 8.2+[cite: 21]
-- Composer 2.x[cite: 21]
-- SQLite[cite: 21]
-- Git & GitHub[cite: 21]
+- PHP 8.2+
+- Composer 2.x
+- SQLite
+- Git & GitHub
 
 ## 🎯 Objetivos de Qualidade (QA)
 - Garantir alta cobertura de testes unitários na camada de negócio[cite: 21].
